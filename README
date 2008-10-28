@@ -1,6 +1,6 @@
 xf86bigfontproto
 ------------------------------------------
-Xorg Big Font protocol headers
+X.Org Big Font protocol headers
 
 Build requirements:
   cygwin-1.5.20-1

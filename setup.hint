@@ -1,3 +1,3 @@
 category: X11
-sdesc: "X.Org Big Font protocol headers"
-ldesc: "X.Org Big Font protocol headers"
+sdesc: "X.Org XFree86-BigFont extension headers"
+ldesc: "X.Org XFree86-BigFont extension headers"
